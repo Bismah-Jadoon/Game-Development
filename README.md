@@ -63,11 +63,10 @@ Game-Development/
 - **Traps**
 - **Level boundaries**
 
----
 
 ## 🚀 Getting Started (Play in Unity)
 
-1.## 🚀 How to Run
+1.🚀 How to Run
 
 1. Clone this repository:
 ```bash
@@ -76,14 +75,14 @@ Open the project in Unity Hub
 Load the main scene from Assets
 Press Play ▶️
 
-🎨 Screenshots
+## 🎨 Screenshots
 
 Start Screen
 Level 1
 Level 2
 End Screen
 
-📌 Project Purpose
+## 📌 Project Purpose
 
 This project was created for:
 
