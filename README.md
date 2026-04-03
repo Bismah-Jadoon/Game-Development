@@ -62,7 +62,24 @@ Game-Development/
 - **Platforms**
 - **Traps**
 - **Level boundaries**
+  
+## 📌 Project Purpose
 
+This project was created for:
+
+Learning Unity basics
+Understanding player movement & physics
+Learning animations & collision system
+Practicing game development workflow
+
+## 🎨 Screenshots
+
+<img width="1600" height="713" alt="Start Screen" src="https://github.com/user-attachments/assets/1365b0f3-4b6a-4ec5-974c-0b4c77491316" />
+
+Start Screen
+Level 1
+Level 2
+End Screen
 
 ## 🚀 Getting Started (Play in Unity)
 
@@ -74,38 +91,20 @@ git clone https://github.com/Bismah-Jadoon/Game-Development.git
 Open the project in Unity Hub
 Load the main scene from Assets
 Press Play ▶️
+```
 
-## 🎨 Screenshots
+## 📬 Contact
 
-Start Screen
-Level 1
-Level 2
-End Screen
-
-## 📌 Project Purpose
-
-This project was created for:
-
-Learning Unity basics
-Understanding player movement & physics
-Learning animations & collision system
-Practicing game development workflow
+```
+Created by **Bismah Jadoon**
+GitHub: [https://github.com/Bismah-Jadoon](https://github.com/Bismah-Jadoon)
+```
 
 ## 📌 Tips for Improvement
 
 ✨ Add sound effects (jump, death)
 ✨ Add UI (score, lives, restart button)
 ✨ Add more levels & obstacles
-
-
-## 📬 Contact
-
-Created by **Bismah Jadoon**
-GitHub: [https://github.com/Bismah-Jadoon](https://github.com/Bismah-Jadoon)
-
-
-
-```
 
 
 
