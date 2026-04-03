@@ -14,7 +14,6 @@ This game was made while learning from the following YouTube tutorial:
 
 Credit goes to the original creator for the guidance and teaching.
 
-
 ## 🧠 Game Overview
 
 In this game:
@@ -74,12 +73,19 @@ Practicing game development workflow
 
 ## 🎨 Screenshots
 
+### Start Screen
 <img width="1600" height="713" alt="Start Screen" src="https://github.com/user-attachments/assets/1365b0f3-4b6a-4ec5-974c-0b4c77491316" />
 
-Start Screen
-Level 1
-Level 2
-End Screen
+### Level 1
+<img width="1552" height="593" alt="Level 1" src="https://github.com/user-attachments/assets/76482a20-f4e4-4615-a27d-6de15f855595" />
+
+### Level 2
+<img width="1529" height="467" alt="Level 2" src="https://github.com/user-attachments/assets/0fb64eaa-05ac-4b00-a93e-504fe44a29a7" />
+
+### End Screen
+<img width="1599" height="711" alt="End Screen" src="https://github.com/user-attachments/assets/011ec7aa-1906-441b-a5ac-e8cf86515880" />
+
+
 
 ## 🚀 Getting Started (Play in Unity)
 
